@@ -12,6 +12,8 @@ The Auditor Tooling Suite is a collection of tools used by auditors to assess th
 The matrix below outlines the ranking and utilization of different tool categories within the Auditor Tooling Suite:
 
 
+The row with the numbers is ranking the tools and usage of the tools together from 1-10. Just manually reviewing the code is a 1, and below are the vulnerabilities that should be discovered through manual review. As you use more tools and combine them with other tools, you can discover more vulnerabilities. A 1 is functional testing of the smart contract, but a 10 is system testing which would be equivalent to auditing the expected usage of the defi stack of that protocol. As you can see, this is mostly conceptual right now, though with your help, we can improve the Auditor Tooling Suite Matrix to better and transparently review crypto auditors. 
+
  | Functional Testing   |                    |                    | Integration Testing | Static Tools   |                    |                    | Dynamic Tools |                    | System Testing |
 | -------------------- | ------------------ | ------------------ | ------------------- | -------------- | ------------------ | ------------------ | -------------- | ------------------ | -------------- |
 |  1             |  2           |  3           |  4            | 5       |  6           | 7           | 8       | 9           | 10      |
