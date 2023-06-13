@@ -6,13 +6,6 @@ Welcome to the Auditor Tooling Suite repository. This repository serves as a res
 
 The Auditor Tooling Suite is a collection of tools used by auditors to assess the security of crypto projects. This repository provides a matrix that ranks different tool categories within the suite. It is important to note that the Auditor Tooling Suite is only one aspect of our overall auditor ranking process. As we continue to develop and expand this project, we will be adding more resources to enhance the auditor ranking process.
 
-## Usage
-
-To access the Auditor Tooling Suite matrix and learn more about the tool categories and their rankings, please refer to the [Auditor Tooling Suite Matrix](#auditor-tooling-suite-matrix) section below.
-
-## Contributing
-
-We welcome contributions from the community to improve and enhance the Auditor Tooling Suite repository. If you have suggestions, bug reports, or would like to contribute new features or tool categories, please feel free to submit a pull request. Together, we can make the auditor ranking process more comprehensive and valuable for the crypto community.
 
 ## Auditor Tooling Suite Matrix
 
@@ -70,4 +63,25 @@ The matrix below outlines the ranking and utilization of different tool categori
 |                     |                    |                    |                     | Arbitrary Storage Write                  |                    |                    |                |                    |                  |
 |                          |                    |                    |                     | Arbitrary Jump                     |                    |                    |                |                    |                  |
 |                       |                    |                    |                     |  Timestamp Dependence                 |                    |                    |                |                    |                  |
+
+
+
+
+## Contributing
+
+We welcome contributions from the community to improve and enhance the Auditor Tooling Suite repository. If you have suggestions, bug reports, or would like to contribute new features or tool categories, please feel free to submit a pull request. 
+
+### How to Contribute
+
+To contribute to the Auditor Tooling Suite repository, follow these steps:
+
+1. Fork this repository to your GitHub account.
+2. Create a new branch for your contribution.
+3. Make your changes, whether it's adding new tools, improving existing ones, or suggesting enhancements.
+4. Commit your changes and push them to your forked repository.
+5. Submit a pull request to the original Auditor Tooling Suite repository.
+
+Once your pull request is submitted, it will be reviewed by the maintainers. We appreciate your contributions and will work together to ensure the quality and relevance of the Auditor Tooling Suite.
+
+
 
