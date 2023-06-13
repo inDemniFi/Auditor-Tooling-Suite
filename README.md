@@ -12,15 +12,15 @@ The Auditor Tooling Suite is a collection of tools used by auditors to assess th
 The matrix below outlines the ranking and utilization of different tool categories within the Auditor Tooling Suite:
 
 
-| Functional Testing   |                    |                    | Integration Testing | Static Tools   |                    |                    | Dynamic Tools |                    | System Testing |
+ | Functional Testing   |                    |                    | Integration Testing | Static Tools   |                    |                    | Dynamic Tools |                    | System Testing |
 | -------------------- | ------------------ | ------------------ | ------------------- | -------------- | ------------------ | ------------------ | -------------- | ------------------ | -------------- |
-| Column 1             | Column 2           | Column 3           | Column 4            | Column 5       | Column 6           | Column 7           | Column 8       | Column 9           | Column 10      |
-| Single Use           | Single             | Two Used           | Three Used          | Single Use     | Two Used           | Two + One          | Single         | Single + One       | Single + One + One |
-| Manual               | Solidity-Coverage  | Mythril            |                     | Echidna        |                    |                    | Slither        |                    |                  |
+|  1             |  2           |  3           |  4            | 5       |  6           | 7           | 8       | 9           | 10      |
+| Tool Utilization | Single Use           | Single             | Two Used           | Three Used          | Single Use     | Two Used           | Two + One          | Single         | Single + One       | Single + One + One |
+| Manual               | Solidity-Coverage  |             |                     | Echidna        |                    |                    | Slither        |                    |                  |
 |                      |                    |                    |                     |                |                    |                    | Harvey         |                    |                  |
 |                      |                    |                    |                     |                |                    |                    | Rattle         |                    |                  |
 |                      |                    |                    |                     |                |                    |                    | Manticore      |                    |                  |
-|                      |                    |                    |                     |                |                    |                    |                |                    |                  |
+|                      |                    |                    |                     |                |                    |                    | Mythril               |                    |                  |
 |  Arithmetic Bugs                            |                    |                    |                     | Slither        |            | Improper Token Handling            |                |                    |   Architectural Logic    |
 | Authentication & Access Control Vulnerabilities |                    |                    |                     | Incorrect constructor name |                    |                    |                |                    | Price Manipulation                 |
 | * Exception & Error Handling Disorders       |                    |                    |                     | Deletion of a mapping with structure |                    |                    |                |                    |  Oracle Manipulation                |
