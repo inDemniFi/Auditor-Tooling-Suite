@@ -14,12 +14,6 @@ To access the Auditor Tooling Suite matrix and learn more about the tool categor
 
 We welcome contributions from the community to improve and enhance the Auditor Tooling Suite repository. If you have suggestions, bug reports, or would like to contribute new features or tool categories, please feel free to submit a pull request. Together, we can make the auditor ranking process more comprehensive and valuable for the crypto community.
 
-## License
-
-The Auditor Tooling Suite repository is licensed under the [MIT License](LICENSE). Please review the license terms before using or contributing to this project.
-
-We appreciate your interest in the Auditor Tooling Suite repository. Together, let's foster a more secure and trustworthy cryptocurrency ecosystem through rigorous auditing practices.
-
 ## Auditor Tooling Suite Matrix
 
 The matrix below outlines the ranking and utilization of different tool categories within the Auditor Tooling Suite:
